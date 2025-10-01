@@ -23,6 +23,7 @@ NIM  : 2341720179
 ***
 
 # Tugas Praktikum 1
+<img width="1616" height="7664" alt="2" src="https://github.com/user-attachments/assets/e9ab8774-47c8-4e5b-a596-40eca4040194" />
 <img width="399" height="850" alt="image" src="https://github.com/user-attachments/assets/47867240-6aad-4255-9411-db508762b62d" />
 <img width="390" height="847" alt="image" src="https://github.com/user-attachments/assets/fb756801-4bc2-4444-9f3e-b41c6eb7c906" />
 
